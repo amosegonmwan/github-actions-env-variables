@@ -50,7 +50,7 @@ jobs:
       - name: Output information
         run: |
           echo "MONGODB_DB_NAME: ${{ env.MONGODB_DB_NAME }}"
-
+```
 
 ## Workflow Explanation:
 ### Environment Variables:
