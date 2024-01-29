@@ -12,7 +12,7 @@ jobs:
   test:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.nnreln6.mongodb.net
-      MONGODB_USERNAME: amosegonmwan
+      MONGODB_USERNAME: amosegonmwan #
       MONGODB_PASSWORD: 8Ri3VYvI5zPF6qeW
       PORT: 8080
     #environment: testing
